@@ -74,6 +74,10 @@ header {
 
 }
 
+.card {
+
+}
+
     #about-box {
         width: auto;
         height: auto;
@@ -107,7 +111,7 @@ header {
 }
 
 #port-box {
-    width: 500px;
+    width: auto;
     height: 500px;
     margin:  15px auto;
     background-color: white;
@@ -118,7 +122,10 @@ header {
 }
 
 #port-image {
-    padding: 10px;
+    padding: 5px;
+    height: 200px;
+    width: 300px;
+    display: inline;
 }
 
 /*contact page CSS */
